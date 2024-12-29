@@ -1,6 +1,3 @@
-package pekingv3;
-
-
 /**
  * Write a description of class MenuItem here.
  *
