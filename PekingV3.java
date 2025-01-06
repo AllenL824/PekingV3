@@ -62,7 +62,7 @@ public class PekingV3
             if (enteredItem.toLowerCase().contains("done")) {
                 break;
             }
-            //remove this section if doesnt function
+            
             if (enteredItem.toLowerCase().contains("remove")) {
             	while (true) {
             	System.out.println("What would you like to remove? Enter \"done\" to finish removing items.");
@@ -76,7 +76,7 @@ public class PekingV3
             	scanner.nextLine();
             	MenuItem deletedItem = null;
             	for (MenuItem item : menu) {
-            	if (removedItem.toLowerCase().equals(item.getItemNumber().toLowerCase())) {
+            	if (removedItem.replaceAll("\\s", "").toLowerCase().equals(item.getItemNumber().replaceAll("\\s", "").toLowerCase())) {
             	deletedItem = item;
             	order.removeItem(deletedItem, removedQuantity);
             	break;
@@ -91,20 +91,11 @@ public class PekingV3
             	}
             	continue;
             	}
-            
-            	/*
-            	 
-            	for (MenuItem item : order.getItems()) {
-            	if (!(removedItem.toLowerCase().equals(item.getItemNumber().toLowerCase())) || (enteredItem.replaceAll("\\s", "").toLowerCase().equals(item.getItemName().replaceAll("\\s", "").toLowerCase()))) {
-            		System.out.println("This item is not in your order.");
-            		break;
-            		}
-            	*/
          
             MenuItem selectedItem = null;
             for (MenuItem item : menu) {
             	//takes item number or name
-            	if (enteredItem.toLowerCase().equals(item.getItemNumber().toLowerCase())) {
+            	if (enteredItem.replaceAll("\\s", "").toLowerCase().equals(item.getItemNumber().replaceAll("\\s", "").toLowerCase())) {
                     selectedItem = item;
                     break;
                 }
