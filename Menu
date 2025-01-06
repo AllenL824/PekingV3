@@ -1,2 +1,158 @@
-1, Broccoli Beef, 8.75
+VEG ER, Vegetable Egg Roll, 2.05
 ER, Egg Roll, 2.05
+SH ER, Shrimp Egg Roll, 2.15
+FR W, Fried Wonton, 5.35
+CR, Crab Rangoon, 7.25
+
+C/S S, Small Cabbage Soup, 2.50
+C/S L, Large Cabbage Soup, 6.25
+W/S S, Small Wonton Soup, 2.70
+W/S L, Large Wonton Soup, 5.10
+E/S S, Small Egg Drop Soup, 2.70
+E/S L, Large Egg Drop Soup, 5.10
+H/S S, Small Hot and Sour Soup, 2.95
+H/S L, Large Hot and Sour Soup, 5.70
+
+1 S, Small Broccoli Beef, 8.75
+1 L, Large Broccoli Beef, 12.50
+2 S, Small Pepper Beef, 8.75
+2 L, Large Pepper Beef, 12.50
+3 S, Small Vegetable Beef, 8.75
+3 L, Large Vegetable Beef, 12.50
+4 S, Small Onion Beef, 8.75
+4 L, Large Onion Beef, 8.75
+5 S, Small Hot Garlic Beef, 8.75
+5 L, Large Hot Garlic Beef, 12.50
+6 S, Small Szechuan Beef, 8.75
+6 L, Large Szechuan Beef, 12.50
+7 S, Small Kung Po Beef, 8.75
+7 L, Large Kung Po Beef, 12.50
+8 S, Small Hunan Beef, 8.75
+8 L, Large Hunan Beef, 12.50
+9 S, Small Mongolian Beef, 8.75
+9 L, Large Mongolian Beef, 12.50
+9A, Beef Fu Young, 12.50
+9B S, Small Mushroom Beef, 8.75
+9B L, Large Mushroom Beef, 12.50 
+9C, Moo Shu Beef, 12.50
+9D S, Small Hot and Spicy Beef, 8.75
+9D L, Large Hot and Spicy Beef, 12.50
+
+10, Moo Shu Pork, 11.95
+11 S, Small Pepper Pork, 8.50
+11 L, Large Pepper Pork, 11.95
+12 S, Small Roast Pork Vegetables, 8.50
+12 L, Large Roast Pork Vegetables, 11.95
+13 S, Small Sweet and Sour Pork, 8.50
+13 L, Large Sweet and Sour Pork, 11.95
+14 S, Small Hot Garlic Pork, 8.50
+14 L, Large Hot Garlic Pork, 11.95
+15 S, Small Twice Cooked Pork, 8.50
+15 L, Large Twice Cooked Pork, 11.95
+15A, Pork Fu Young
+15B S, Small Szechuan Pork, 11.95
+
+16 S, Small Broccoli Chicken, 8.50
+16 L, Large Broccoli Chicken, 11.95
+17 S, Small Moo Goo Gai Pan, 8.50
+17 L, Large Moo Goo Gai Pan, 11.95
+18 S, Small Chicken with Almond, 8.50
+18 L, Large Chicken with Almond, 11.95
+19 S, Small Royal Chicken and Shrimp, 8.50
+19 L, Large Royal Chicken and Shrimp, 11.95
+20 S, Small Cashew Chicken, 8.50
+20 L, Large Cashew Chicken, 11.95
+21 S, Small Pineapple Chicken, 8.50
+21 L, Large Pineapple Chicken, 11.95
+22 S, Small Lemon Chicken, 8.50
+22 L, Large Lemon Chicken, 11.95
+23 S, Small Hunan Chicken, 8.50
+23 L, Large Hunan Chicken, 11.95
+24 S, Small Hot Garlic Chicken, 8.50
+24 L, Large Hot Garlic Chicken, 11.95
+25 S, Small Sizzling Rice Chicken, 8.50
+25 L, Large Sizzling Rice Chicken, 11.95
+26 S, Small Kung Pao Chicken, 8.50
+26 L, Large Kung Pao Chicken, 11.95
+27 S, Small Sweet and Sour Chicken, 8.50
+27 L, Large Sweet and Sour Chicken, 11.95
+28 S, Small Vegetable Chicken, 8,50
+28 L, Large Vegetable Chicken, 11.95
+29 S, Small Twice Cooked Chicken, 8.50
+29 L, Large Twice Cooked Chicken, 11.95
+30 S, Small Chicken Teryaki, 8.50
+30 L, Large Chicken Teryaki, 11.95
+30A, Chicken Fu Young, 11.95
+30B S, Small General Tso's Chicken, 9.25
+30B L, Large General Tso's Chicken, 12.75
+30C S, Small Sesame Chicken, 9.25
+30C L, Large Sesame Chicken, 12.75
+30D S, Small Orange Chicken, 9.25
+30D L, Large Orange Chicken, 12.75
+30E, Chicken on Stick, 11.95
+30F S, Small Curry Chicken, 8.50
+30F L, Large Curry Chicken, 11.95
+
+31 S, Small Broccoli Shrimp, 9.20
+31 L, Large Broccoli Shrimp, 12.75
+32 S, Small Hunan Shrimp, 9.20
+32 L, Large Hunan Shrimp, 12.75
+33 S, Small Cashew Shrimp, 9.20
+33 L, Large Cashew Shrimp, 12.75
+34 S, Small Shrimp with Lobster Sauce, 9.20
+34 L, Large Shrimp with Lobster Sauce, 12.75
+35 S, Small Szechuan Shrimp, 9.20
+35 L, Large Szechuan Shrimp, 12.75
+36, Triple Delight in Garlic Sauce, 13.05
+37 S, Small Sweet and Sour Shrimp, 9.20
+37 L, Large Sweet and Sour Shrimp, 12.75
+38 S, Small Pineapple Shrimp, 9.20
+38 L, Large Pineapple Shrimp, 12.75
+39 S, Small Vegetable Shrimp, 9.20
+39 L, Large Vegetable Shrimp, 12.75
+40, Vegetable Scallop and Shrimp, 13.05
+41 S, Small Sizzling Rice Shrimp, 9.20
+41 L, Large Sizzling Rice Shrimp, 12.75
+42, Triple Delight, 12.75
+42A, Shrimp Fu Young, 12.75
+42B, Scallop with Garlic Sauce, 13.05
+42C S, Small Shrimp with Garlic Sauce, 9.20
+42C L, Large Shrimp with Garlic Sauce, 12.75
+42D S, Small Seafood Combination, 9.65
+42D L, Large Seafood Combination, 13.05
+
+43, Combination Vegetable, 10.05
+44, House Bean Curd, 10.05
+45, Broccoi and Water Chestnuts, 10.05
+46, Hot Garlic Broccoli, 10.05
+47, Bean Curd Szechuan Style, 10.05
+47A, Broccoli with Oyster Sauce, 10.05
+
+48 S, Small House Fried Rice, 7.75
+48 L, Large House Fried Rice, 10.50
+49 S, Small Shrimp Fried Rice, 7.75
+49 L, Large Shrimp Fried Rice, 10.50
+50 S, Small Chicken Fried Rice, 7.35
+50 L, Large Chicken Fried Rice, 9.95
+51 S, Small Beef Fried Rice, 7.75
+51 L, Large Beef Fried Rice, 10.50
+52 S, Small Pork Fried Rice, 7.35
+52 L, Large Pork Fried Rice, 9.95
+53 S, Small Vegetable Fried Rice, 7.35
+53 L, Large Vegetable Fried Rice, 9.95
+
+54 S, Small House Lo Mein, 8.75
+54 L, Large House Lo Mein, 11.65
+55 S, Small Shrimp Lo Mein, 8.75
+55 L, Large Shrimp Lo Mein, 11.65
+56 S, Small Chicken Lo Mein, 8.50
+56 L, Large Chicken Lo Mein, 10.95
+57 S, Small Beef Lo Mein, 8.75
+57 L, Large Beef Lo Mein, 11.65
+58 S, Small Pork Lo Mein, 8.50
+58 L, Large Pork Lo Mein, 10.95
+59 S, Small Vegetable Lo Mein, 8.50
+59 L, Large Vegetable Lo Mein, 10.95
+59A S, Small Plain Lo Mein, 7.45
+59A L, Large Plain Lo Mein, 9.55
+
